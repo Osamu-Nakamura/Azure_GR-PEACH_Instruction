@@ -31,7 +31,7 @@ This document describes the steps for connecting [mbed-enabled Renesas GR-PEACH]
 -   Computer with Git client installed and access to the [azure-iot-sdks](https://github.com/Azure/azure-iot-sdks) GitHub public repository.
 -   SSH client on your desktop computer, such as [PuTTY](http://www.putty.org), so you can remotely access the command line on the Renesas GR-PEACH.
 -   Required hardware: [mbed-enabled Renesas GR-PEACH](https://developer.mbed.org/platforms/Renesas-GR-PEACH/)
--   [Setup your IoT Hub](lnk-setup-iot-hub)
+-   [Setup your IoT Hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials](lnk-manage-iot-hub)
 
 <a name="Step-2-PrepareDevice"></a>
