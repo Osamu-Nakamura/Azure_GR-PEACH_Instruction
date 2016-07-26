@@ -89,7 +89,7 @@ The program starts executing. You may have to reset the board (press CTRL+Break 
 <a name="tips"></a>
 ## Monitor device data and send messages
 
--    See [Manage Iot Hub](lnk-manage-iot-hub) to learn how to observe the messages Azure IoT Hub receives from the application and how to send cloud-to-device messages to the application.
+-    See [Manage Iot Hub][lnk-manage-iot-hub] to learn how to observe the messages Azure IoT Hub receives from the application and how to send cloud-to-device messages to the application.
 
 [1]: ../media/GR-PEACH_mbed1.png
 [2]: ../media/GR-PEACH_mbed2.png
