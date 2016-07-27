@@ -20,7 +20,7 @@ Run a simple C sample on Renesas GR-PEACH platform<br>running mbed
 
 **About this document**
 
-This document describes the steps for connecting [mbed-enabled Renesas GR-PEACH](https://developer.mbed.org/platforms/Renesas-GR-PEACH/) to Azure Iot Hub. This multi-step process includes:
+This document describes the steps for connecting [mbed-enabled Renesas GR-PEACH](https://developer.mbed.org/platforms/Renesas-GR-PEACH/) to Azure IoT Hub. This multi-step process includes:
 -   Configuring Azure IoT Hub
 -   Registering your IoT device
 -   Build and deploy Azure IoT SDK on device
@@ -53,7 +53,7 @@ This document describes the steps for connecting [mbed-enabled Renesas GR-PEACH]
 
 ![][1]
 
-- In the popup window, enther the link for the sample code https://developer.mbed.org/users/AzureIoTClient/code/iothub_client_sample_mqtt/ <br>
+- In the popup window, enher the link for the sample code https://developer.mbed.org/users/AzureIoTClient/code/iothub_client_sample_mqtt/ <br>
 Note that if you want to try the sample using HTTP or AMQP instead of MQTT, you can import the following samples, respectively:<br> https://developer.mbed.org/users/AzureIoTClient/code/iothub_client_sample_http/ <br> https://developer.mbed.org/users/AzureIoTClient/code/iothub_client_sample_amqp/
 
 ![][2]
@@ -80,7 +80,7 @@ Click **Compile** to build the program. You can safely ignore any warning, but i
 
 ![][6]
 
--    In PuTTY, click the **Serial** connection type. The default baudrate is 9600 and so, enter that value in the **Speed** box. Then, click **Open**:
+-    In PuTTY, click the **Serial** connection type. The default baud rate is 9600 and so, enter that value in the **Speed** box. Then, click **Open**:
 
 ![][7]
 
