@@ -18,7 +18,7 @@ Run a simple C sample on Renesas GR-PEACH platform<br>running mbed
 <a name="Introduction"></a>
 # Introduction
 
-** About this document **
+**About this document**
 
 This document describes the steps for connecting [mbed-enabled Renesas GR-PEACH](https://developer.mbed.org/platforms/Renesas-GR-PEACH/) to Azure Iot Hub. This multi-step process includes:
 -   Configuring Azure IoT Hub
